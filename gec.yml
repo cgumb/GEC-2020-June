@@ -3,6 +3,7 @@ name: gec
 channels:
 - conda-forge
 - defaults
+- jmcmurray # for json
 
 dependencies:
 - IPython
